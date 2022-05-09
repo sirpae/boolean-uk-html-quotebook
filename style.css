@@ -1,0 +1,108 @@
+html, body {
+    margin: 0;
+}
+
+/*HEADER STYLES*/
+.header-text-2 {
+    text-align: center;
+}
+
+.header-text {
+    text-align: center;
+}
+
+.site-header {
+    display: flex;
+    background-color: #8C0031;
+    height: 90px;
+}
+
+
+
+/*TEXT STYLES*/
+
+.text {
+    display: flex;
+    font-size: 50px;
+    padding: 7px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.header-text {
+    font-size: 30px;
+    padding: 15px;
+
+    margin: auto;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.header-text-2 {
+    font-size: 30px;
+    padding: 15px;
+    right: 995px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+/*FLEXBOX*/
+
+.center-wrapper {
+    width: 750px;
+    background-color: #C8E6C8;
+    margin:0 auto;
+    border-radius: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    bottom: 100px;
+
+    height: 150px;
+
+}
+
+
+
+/*INSIDE FLEXBOX TEXT*/
+
+
+.flexbox-item {
+    font-size: 13px;
+}
+
+.header-2 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+}
+
+.header-3 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+}
+
+.header-4 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+}
+
+.header-5 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+}
